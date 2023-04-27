@@ -1,2 +1,2 @@
 # java-calculator
-simple math functions showing calculations similar to a scientific calculator
+simple java maths functions showing calculations similar to a scientific calculator
